@@ -405,6 +405,7 @@ font-family: var(--font-header);
 
 .cb-item {
 display: grid;
+font-family: var(--font-header);
 grid-template-rows: 1fr;
 grid-template-columns: 1fr;
 border: 2px solid black;
